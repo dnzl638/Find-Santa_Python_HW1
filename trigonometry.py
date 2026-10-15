@@ -1,7 +1,7 @@
 # !/usr/bin/env python3
 
 """
-.. moduleauthor:: Deniz Litscahuer <denizl.litschi@gmail.com>
+.. moduleauthor:: Deniz Litschauer <denizl.litschi@gmail.com>
 """
 
 import math
